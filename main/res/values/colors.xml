@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d67c7c</color>
+    <color name="colorPrimaryDark">#464b47</color>
+    <color name="colorAccent">#640e27</color>
+    <color name="welcomeText">#dc9f54</color>
+    <color name="subText">#df07bb</color>
+    <color name="restaurants">#9e8585</color>
+    <color name="cinemas">#44d692</color>
+    <color name="clubs">#8E24AA</color>
+    <color name="tourists">#31411b</color>
+    <color name="hotels">#b18240</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991072237008",
+    "firebase_url": "https://lulatourguide.firebaseio.com",
+    "project_id": "lulatourguide",
+    "storage_bucket": "lulatourguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991072237008:android:a66fefe9078cb14d",
+        "android_client_info": {
+          "package_name": "com.tolgaduran.android.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991072237008-57ej1fppu6lmsr87m5nv9o5ihssar7u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tolgaduran.android.tourguide",
+            "certificate_hash": "a5df10d8b1cb8e3e48081dbba7ed5571f72647ba"
+          }
+        },
+        {
+          "client_id": "991072237008-ofd9immlabedjp0j9jf1fpsojl4jggsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxU6BKRW72-0lOSMLre0IP48GuEuJOpmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991072237008-ofd9immlabedjp0j9jf1fpsojl4jggsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

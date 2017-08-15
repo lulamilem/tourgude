@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="welcome">Welcome To City Of Joburg Tour Guide</string>
+    <string name="subtext">Tap Here To Continue</string>
+    <string name="club">Outdoor</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="cinemas">Cinemas</string>
+    <string name="tourist">Tourist Spots</string>
+
+
+    <string name="mcdonalds">McDonalds</string>
+    <string name="debonairs">Debonairs Pizza</string>
+    <string name="mr">Mr Chips</string>
+    <string name="kfc">KFC</string>
+    <string name="nandoss">Nandos</string>
+    <string name="spur">Spur</string>
+
+
+
+    <string name="sterk">Sterkirenkor</string>
+    <string name="cinema">Cinema</string>
+    <string name="maboneng">Maboneng</string>
+    <string name="bioscope">Bioscope</string>
+    <string name="sabc">SABC</string>
+
+
+    <string name="summit">Summit Night Club</string>
+    <string name="skyline">Skyline Night Club</string>
+    <string name="news"> News Cafe Night Club</string>
+    <string name="cheeky"> Cheeky Tigers Night Club</string>
+    <string name="razz">Razz_Matazz Night Club</string>
+
+
+
+    <string name="theatre">Joburg Theatre</string>
+    <string name="consti">Constitutional Hill</string>
+    <string name="parki">Parkstation</string>
+    <string name="airport">Airport</string>
+    <string name="zoo">Joburg Zoo</string>
+    <string name="ellis">Ellis Park Stadium</string>
+
+
+    <string name="four">Four Season Hotel</string>
+    <string name="park_s">Parkstation Hotel</string>
+    <string name="protea">Protea Hotel</string>
+    <string name="royal">Royal Hotel</string>
+    <string name="hotel">Hyatt Regency Hotel</string>
+
+    <string name="title_activity_primary">PrimaryActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+
+
+
+
+</resources>
